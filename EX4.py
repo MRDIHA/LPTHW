@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 cars = 100      # the variable "cars" is equal to 100
 space_in_a_car = 4.0    # the variable "space_in_a_car" is equal to 4.0

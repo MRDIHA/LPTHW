@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 
 # this one is like your scripts with argv

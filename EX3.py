@@ -1,4 +1,5 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL' \
+             ''
 
 print "I will now count my chickens:"
 

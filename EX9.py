@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 # Here's some new strange stuff, remember type it exactly.
 

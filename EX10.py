@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 tabby_cat = "\tI'm tabbed in."  # \t makes the tekst get printed with 4 spaces before it
 persian_cat = "I'm split\non a line."  # \n makes a line split

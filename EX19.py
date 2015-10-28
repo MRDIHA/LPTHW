@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 
 # creates the function cheese_and_crackers and gives it two arguments

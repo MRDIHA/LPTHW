@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 x = "There are %d types of people." % 10
 binary = "binary"

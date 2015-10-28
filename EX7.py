@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 
 print "Mary had a little lamb."
 print "its fleece was white as %s." % 'snow'

@@ -1,4 +1,4 @@
-__author__ = 'Quintin Martinus'
+__author__ = 'MrBIGL'
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python
 
